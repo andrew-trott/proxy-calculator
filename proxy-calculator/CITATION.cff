@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "proxy-calculator"
+version: "1.0.0"
+date-released: 2025
+authors:
+  - family-names: Trott
+    given-names: Andrew
+    orcid: https://orcid.org/0000-0001-2345-6789
+license: MIT
+repository-code: https://github.com/johndoe/proxy-ratio
+https://orcid.org/0009-0005-4905-0548

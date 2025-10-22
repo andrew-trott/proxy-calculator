@@ -1,0 +1,10 @@
+CITATION:
+
+Title: 				proxy-calculator
+Authors and affiliations:	Andrew Trott, ETH Zurich
+Version:			1.0
+Year of publication:		2025
+License:			MIT License
+ 
+e.g. Trott, A. (2025) proxy-calculator.
+
